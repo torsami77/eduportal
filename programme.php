@@ -1,0 +1,21 @@
+<select name="programme" required >
+<option value="">SELECT PROGRAMME OF STUDY</option>
+<option value="bacrs"> B.A. in Christian Religions Studies (accredited by the University of Jos) </option>
+<option value="baecrs"> B.A. in Education, (Christian Religious Studies) </option>
+<option value="batm"> B.A. in Theology, (Missions) </option>
+<option value="batp">B.A. in Theology, (Pastoral) </option>
+<option value="bats"> B.A. in Theology, (Systematics) </option>
+<option value="bep"> Basic English Programme </option>
+<option value="cbwi"> Certificate in Bible, (Women’s Institute) </option>
+<option value="ctpm"> Certificate in Theology, (Pastoral Major) </option>
+<option value="dt"> Diploma in Theology, </option>
+<option value="mabsnt"> M.A. in Biblical Studies, New Testament </option>
+<option value="mabsot"> M.A. in Biblical Studies, Old Testament </option>
+<option value="mace"> M.A. in Christian Education </option>
+<option value="mactpp"> M.A. in Christian Theology of Public Policies </option>
+<option value="maep"> M.A. in Expository Preaching </option>
+<option value="mapt"> M.A. in Pastoral Theology </option>
+<option value="mapbc"> M.A. in Psychology and Biblical Counselling </option>
+<option value="pgdps">Post-Graduate Diploma in Pastoral Studies </option>
+<option value="prems">Preliminaries </option>
+</select>

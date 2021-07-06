@@ -1,0 +1,119 @@
+fieldset{
+	background: #d3d3d3;
+}
+
+.vl {
+	float: left;
+    border-left: 3px solid;
+    height: 100%;
+}
+
+.form {
+width: 70%;
+margin: 0 auto;
+}
+
+legend{
+font-weight: bold;
+}
+
+.welcome{
+	float:left;
+	width:174px;
+	height:70px;
+	margin:10 50;
+	background-color:green;
+}
+
+
+
+
+
+
+
+
+
+.menu {
+margin: 0 auto;
+text-decoration: none;
+color: white;
+left:0%;
+background-color:red;
+text-align: center;
+}
+
+#nav {
+max-width:100%;
+margin:0 auto;
+list-style:none;
+text-align:center;
+}
+
+#nav li {
+width: 30%;
+list-style-type: none;
+float: left;
+width: auto;
+}
+
+#nav a {
+padding: 3px 15px;
+line-height: 200%;
+display: block;
+text-align:center;
+text-decoration:none;
+}
+
+#nav a:hover {
+color: black;
+
+background:  lightgreen;
+}
+
+
+#nav a:after {
+background: lightgold;
+}
+
+@keyframes gal {
+  0% {
+visibility: visible;
+
+opacity:1;
+}
+
+100% {visibility:hidden;
+opacity:0;
+}
+}
+
+#error {
+animation-name: gal;
+animation-timing-function: ease-in-out;
+animation-duration: 30s;
+animation-direction: alternate;
+}
+.error{
+	text-align: center;
+	font-weight:900;
+	font-size: 25px;
+	position:fixed;
+	top:20px;
+	margin:0 auto;
+	width:50%;
+	height:10%;
+	background-color:red;
+	visibility:hidden;
+	margin:0 auto;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid red;
+	width: 100%
+	}
+
+tr, td{
+    border-collapse: collapse;
+    border: 2px solid blue;
+	}
